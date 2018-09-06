@@ -1,5 +1,7 @@
 # jenkins-slave
 
+Use the commond below
+
 docker run --network bridge \
 --ip 172.17.0.20 \
 --name=slave5 -d \
